@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/addMenu1Button"
+        android:icon="@android:drawable/ic_input_add"
+        android:iconTint="@android:color/background_light"
+        android:title="Add Employee"
+        app:showAsAction="always" />
+</menu>
